@@ -16,5 +16,13 @@ namespace CadeteriaWeb.Models
         public string nombre { get => Nombre; set => Nombre = value; }
         public string direccion { get => Direccion; set => Direccion = value; }
         public int telefono { get => Telefono; set => Telefono = value; }
+        
+        public Cadete(int id, string nombre, string direccion, int telefono)
+        {
+            ID = id;
+            Nombre = nombre;
+            Direccion = direccion;
+            Telefono = telefono;
+        }
     }
 }

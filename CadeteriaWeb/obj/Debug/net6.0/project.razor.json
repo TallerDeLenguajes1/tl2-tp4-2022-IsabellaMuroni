@@ -16323,6 +16323,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Pedido\\Pedido.cshtml",
+      "TargetPath": "Views\\Pedido\\Pedido.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"

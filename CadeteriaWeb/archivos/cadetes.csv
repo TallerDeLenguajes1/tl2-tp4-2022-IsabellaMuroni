@@ -1,0 +1,14 @@
+Id,TipoDocumento,NumeroDocumento,Nombre
+0,DNI,44231324,Sergio Guardia
+1,DNI,45123467,Javier Graña
+2,DNI,46679654,Agustín Décima
+3,DNI,38234234,Ángel Valenzuela
+4,CUIT,20-76345234-5,Uniqlo
+5,DNI,39456275,Gonzalo Conde
+6,DNI,40254390,Carolina Navarro
+7,CUIT,20-35445934-2,Meta
+8,CUIT,20-12985261-3,Tesla
+9,DNI,41204356,Rosalia Vila i Tobella
+10,CUIT,20-71930234-5,Evergreen
+11,CUIT,20-10349209-5,Lehman Brothers
+12,CUIT,20-09345012-5,Purdue Pharma
