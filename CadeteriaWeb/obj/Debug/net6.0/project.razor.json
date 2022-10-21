@@ -16298,6 +16298,11 @@
   "RootNamespace": "CadeteriaWeb",
   "Documents": [
     {
+      "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Cadeteria\\Cadeteria.cshtml",
+      "TargetPath": "Views\\Cadeteria\\Cadeteria.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16325,11 @@
     {
       "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\taller_2\\tl2-tp4-2022-IsabellaMuroni\\CadeteriaWeb\\Views\\Cadete\\Cadete.cshtml",
+      "TargetPath": "Views\\Cadete\\Cadete.cshtml",
       "FileKind": "mvc"
     },
     {
