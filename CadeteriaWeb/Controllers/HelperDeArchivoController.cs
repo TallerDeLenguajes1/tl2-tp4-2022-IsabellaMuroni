@@ -9,16 +9,16 @@ using Microsoft.Extensions.Logging;
 namespace CadeteriaWeb.Controllers
 {
     [Route("Helper")]
-    public class HelperDeArchivos : Controller
+    public class HelperDeArchivoController : Controller
     {
-        private readonly ILogger<HelperDeArchivos> _logger;
+        private readonly ILogger<HelperDeArchivoController> _logger;
 
-        public HelperDeArchivos(ILogger<HelperDeArchivos> logger)
+        public HelperDeArchivoController(ILogger<HelperDeArchivoController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult HelperDeArchivos()
+        public IActionResult Index()
         {
             return View();
         }
